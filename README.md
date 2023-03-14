@@ -6,15 +6,14 @@
 
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ritik Singh</h1>
 
-<h3>a 20 years old Frontend Developer and UI Designer from INDIA</h3>
+<h3>Frontend Developer and UI Designer from INDIA</h3>
 
 ## Skills
 
-- 👨‍💻 JavaScript, Python
-- ⚙️ React, jQuery, Bootstrap
+- 👨‍💻 JavaScript
+- ⚙️ React, Bootstrap, TailwindCSS, 
 - 👁️ SASS, CSS, HTML
-- 💽 MySQL
-- 🖌️ Figma, Adobe XD, Canva
+- 🖌️ Figma
 
 ## Connect with me
 
